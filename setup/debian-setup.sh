@@ -101,8 +101,8 @@ if [[ $USER == "karan" ]]; then
 fi
 
 if [[ $USER == "mello" ]]; then
-  git config --global user.email "mello.dmt@proton.me"
-  git config --global user.name "Daniel Mello"
+  git config --global user.email "dsxmello+github@proton.me"
+  git config --global user.name "mello"
 fi
 
 git config --global alias.cp 'cherry-pick'
